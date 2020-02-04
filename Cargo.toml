@@ -1,0 +1,5 @@
+[package]
+name = "tmp-ssh-key"
+version = "0.1.0"
+authors = ["LOU Xun <aquarhead@ela.build>"]
+edition = "2018"
