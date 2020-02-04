@@ -1,3 +1,7 @@
+```
+cargo install https://github.com/aquarhead/tmp-ssh-key.git
+```
+
 This small tool basically:
 
 - Read private key from stdin
