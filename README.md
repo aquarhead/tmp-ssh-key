@@ -1,5 +1,5 @@
 ```
-cargo install https://github.com/aquarhead/tmp-ssh-key.git
+cargo install --git https://github.com/aquarhead/tmp-ssh-key.git
 ```
 
 This small tool basically:
